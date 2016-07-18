@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "represents the browsers viewport in a more useful way",
   "dependencies": {
-    "emitter": "jkroso/emitter"
+    "@jkroso/emitter": "jkroso/emitter"
   },
   "devDependencies": {
     "serve": "jkroso/serve"

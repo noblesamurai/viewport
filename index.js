@@ -1,4 +1,4 @@
-var Emitter = require('emitter')
+var Emitter = require('@jkroso/emitter')
 
 // mixin emitter
 Emitter(exports)
